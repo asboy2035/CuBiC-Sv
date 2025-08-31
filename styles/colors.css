@@ -1,0 +1,10 @@
+:root {
+  --backgroundColor: black;
+  --innerBackgroundColor: rgba(35, 35, 35, 0.75);
+  --borderColor: rgba(255, 255, 255, 0.1);
+  --prominentBorderColor: rgba(255, 255, 255, 0.1);
+  --textColor: white;
+  --accentColor: #4caf50;
+  --accentDarkColor: #45a049;
+  --errorColor: rgba(255, 0, 0, 0.85);
+}
