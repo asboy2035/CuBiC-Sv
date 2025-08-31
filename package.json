@@ -1,0 +1,26 @@
+{
+  "name": "cubic",
+  "version": "4.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "vite dev",
+    "preview": "vite preview --outDir ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doombotino/CuBiC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Doombotino/CuBiC/issues"
+  },
+  "homepage": "https://github.com/Doombotino/CuBiC#readme",
+  "devDependencies": {
+    "three": "^0.179.1",
+    "vite": "^7.1.3"
+  }
+}
